@@ -60,7 +60,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ##Server Side Output
-![GitHub Logo](/downloads/serveroutput.png)
+![Server Side Output](/downloads/serveroutput.png)
 
 
 ## RESULT:
