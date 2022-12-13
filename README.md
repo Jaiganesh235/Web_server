@@ -60,7 +60,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ##Server Side Output
-C:\Users\SEC\Downloads\serveroutput.png.png
+![Server Side Output](C:\Users\SEC\Downloads\serveroutput.png)
 
 
 ## RESULT:
