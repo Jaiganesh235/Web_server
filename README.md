@@ -60,7 +60,8 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ##Server Side Output
-![Server Side Output](C:\Users\SEC\Downloads\serveroutput.png)
+![serveroutput png](https://user-images.githubusercontent.com/118657189/207249296-00d8a7ff-cdb0-4e1f-a81c-71ebccd75076.png)
+
 
 
 ## RESULT:
