@@ -26,7 +26,8 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-```from http.server import HTTPServer,BaseHTTPRequestHandler
+```
+from http.server import HTTPServer,BaseHTTPRequestHandler
 content="""
 <!DOCTYPE html>
 <html>
@@ -59,8 +60,8 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ##Server Side Output
+file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-12-13%2010-19-59.png
 
-recent:///28b29035f6e36109641c5774639809da
 
 ## RESULT:
 thus the web server is developed to display about five programming languages
