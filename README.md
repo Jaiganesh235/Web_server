@@ -60,7 +60,7 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ##Server Side Output
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202022-12-13%2010-19-59.png
+![GitHub Logo](/images/serveroutput.png)
 
 
 ## RESULT:
